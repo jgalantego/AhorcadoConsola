@@ -1,0 +1,14 @@
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\bin\Debug\net9.0\AhorcadoConsola.exe
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\bin\Debug\net9.0\AhorcadoConsola.deps.json
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\bin\Debug\net9.0\AhorcadoConsola.runtimeconfig.json
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\bin\Debug\net9.0\AhorcadoConsola.dll
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\bin\Debug\net9.0\AhorcadoConsola.pdb
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\AhorcadoConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\AhorcadoConsola.AssemblyInfoInputs.cache
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\AhorcadoConsola.AssemblyInfo.cs
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\AhorcadoConsola.csproj.CoreCompileInputs.cache
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\AhorcadoConsola.dll
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\refint\AhorcadoConsola.dll
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\AhorcadoConsola.pdb
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\AhorcadoConsola.genruntimeconfig.cache
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\ref\AhorcadoConsola.dll
