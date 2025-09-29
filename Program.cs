@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Console.ReadKey();
-        const int MAX_INTENTOS = 5;
+        const int MAX_INTENTOS = 6;
         // Array de palabras
         string[] arrayPalabras = { "ordenador", "tecnologias", "moviles", "practicas" };
         bool quiereJugar = true;
@@ -34,6 +34,7 @@ class Program
             while (intentosFallidos < MAX_INTENTOS && !palabraCompleta)
             {
                 Console.Clear();
+                dibujarAhorcado(intentosFallidos);
                 Console.WriteLine("Palabra a adivinar: " + new string(palabraAdivinada));
                 Console.WriteLine("Intentos fallidos: " + intentosFallidos + " de " + MAX_INTENTOS);
                 Console.WriteLine("Letras usadas: " + string.Join(", ", letrasUsadas));
@@ -78,7 +79,6 @@ class Program
                 {
                     intentosFallidos++;
                 }
-
                 palabraCompleta = !new string(palabraAdivinada).Contains('_');
             }
 
@@ -89,6 +89,7 @@ class Program
             }
             else
             {
+                dibujarAhorcado(intentosFallidos);
                 Console.WriteLine("Has perdido. La palabra era: " + palabra);
             }
             Console.WriteLine("");
@@ -103,5 +104,37 @@ class Program
                 Console.WriteLine("");
             }
         } while (quiereJugar);
+    }
+
+    static void dibujarAhorcado(int intentosFallidos)
+    {
+        string[] ahorcado = new string[]
+        {
+            "  +---+",
+            "  |   |",
+            "      |",
+            "      |",
+            "      |",
+            "      |",
+            "=========",
+        };
+
+        if (intentosFallidos >= 1)
+            ahorcado[2] = "  O   |";
+        if (intentosFallidos >= 2)
+            ahorcado[3] = "  |   |";
+        if (intentosFallidos >= 3)
+            ahorcado[3] = " /|   |";
+        if (intentosFallidos >= 4)
+            ahorcado[3] = " /|\\  |";
+        if (intentosFallidos >= 5)
+            ahorcado[4] = " /    |";
+        if (intentosFallidos >= 6)
+            ahorcado[4] = " / \\  |";
+
+        foreach (string line in ahorcado)
+        {
+            Console.WriteLine(line);
+        }
     }
 }

@@ -12,3 +12,4 @@ D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.
 D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\AhorcadoConsola.pdb
 D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\AhorcadoConsola.genruntimeconfig.cache
 D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\ref\AhorcadoConsola.dll
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\AhorcadoConsola\AhorcadoConsola\obj\Debug\net9.0\AhorcadoConsola.sourcelink.json

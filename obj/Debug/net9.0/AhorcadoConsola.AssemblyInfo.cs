@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AhorcadoConsola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecc786abd499a7cb6226fb87ea79e3bc1d3b2711")]
 [assembly: System.Reflection.AssemblyProductAttribute("AhorcadoConsola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AhorcadoConsola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
