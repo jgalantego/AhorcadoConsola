@@ -4,9 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.ReadKey();
         const int MAX_INTENTOS = 6;
-        // Array de palabras
         string[] arrayPalabras = { "ordenador", "tecnologias", "moviles", "practicas" };
         bool quiereJugar = true;
 
